@@ -50,23 +50,6 @@ setInterval( function() {
     }, 1000);
 	
 }); 
-
-
-
-
-
-
-/***********************************************
-
-* JavaScript Alarm Clock- by JavaScript Kit (www.javascriptkit.com)
-* This notice must stay intact for usage
-* Visit JavaScript Kit at http://www.javascriptkit.com/ for this script and 100s more
-
-***********************************************/
-
-	
-	
-	
 	
 var jsalarm={
 	padfield:function(f){
